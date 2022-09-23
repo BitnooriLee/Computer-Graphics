@@ -89,11 +89,13 @@ Calculate the amount of light reflected from a surface towards the camera. Direc
 
 ### Lab5 : Texture Rendering
 Learn how to render to a texture directly and how to apply post-processing passes.
+
 <img src = "http://www.cse.chalmers.se/edu/course/TDA362/tutorials/lab5/startWithShading.png" width = 400>
 
 
 ### Lab6 : Shadows maps
 The traditional shadow map method can be used to compute shadows. The method is based on Lab 5's render to texture.
+
 <img src = "http://www.cse.chalmers.se/edu/course/TDA362/tutorials/lab6/startState.png" width = 400>
 
 ## Final Project: Particle System
@@ -101,6 +103,7 @@ Implement a particle system and leave a fire trail in your wake.
 
 
 <img src= "http://www.cse.chalmers.se/edu/course/TDA362/tutorials/openglproj/particles.gif" width = 400>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
